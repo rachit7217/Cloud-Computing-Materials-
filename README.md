@@ -39,4 +39,4 @@ Includes key statistics:
 
 | File | Description |
 |------|-------------|
-| https://github.com/rachit7217/Cloud-Computing-Materials-/blob/main/Cloud_Computing_basics%2C.docx |
+|(https://github.com/rachit7217/Cloud-Computing-Materials-/blob/main/Cloud_Computing_basics%2C.pdf) |
