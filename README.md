@@ -39,4 +39,4 @@ Includes key statistics:
 
 | File | Description |
 |------|-------------|
-| `Cloud_Computing_LinkedIn_Post_Visuals_Inline.pdf` |
+| `[Cloud_Computing_LinkedIn_Post_Visuals_Inline.pdf](https://github.com/rachit7217/Cloud-Computing-Materials-/blob/main/Cloud_Computing_basics%2C.docx)` |
